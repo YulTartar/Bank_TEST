@@ -1,0 +1,5 @@
+databaseChangeLog:
+  - include:
+      file: db/migration/create-users.yaml
+  - include:
+      file: db/migration/create-cards.yaml
